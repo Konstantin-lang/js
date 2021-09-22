@@ -1,1 +1,1 @@
-const category = 'toys';
+const numberOfFilms = promt('Сколько фильмов вы смотрели?', '');
